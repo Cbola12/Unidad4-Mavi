@@ -1,0 +1,11 @@
+﻿  Juego.cpp
+C:\Users\Cristian\source\repos\Unidad 4.6\Unidad 4.6\Juego.h(36,28): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Unidad 4.6\Unidad 4.6\Juego.h(70,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Unidad 4.6\Unidad 4.6\Juego.h(70,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Main.cpp
+C:\Users\Cristian\source\repos\Unidad 4.6\Unidad 4.6\Juego.h(36,28): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Unidad 4.6\Unidad 4.6\Juego.h(70,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Unidad 4.6\Unidad 4.6\Juego.h(70,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  crosshair.cpp
+  Generando código...
+  Unidad 4.6.vcxproj -> C:\Users\Cristian\source\repos\Unidad 4.6\Debug\Unidad 4.6.exe
